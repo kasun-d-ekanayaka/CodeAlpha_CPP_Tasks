@@ -46,7 +46,7 @@ Overall CGPA : 3.60
 Structs, vectors, loops, functions, input validation, formatted output (`iomanip`).
 
 ## 👨‍💻 Author
-**Your Name** — CodeAlpha C++ Programming Intern 🌟
+**M.Kasun Dilruksha Ekanayaka** — CodeAlpha C++ Programming Intern 🌟
 ## Concepts Used
 Structs, vectors, loops, functions, input validation, formatted output (`iomanip`).
 
